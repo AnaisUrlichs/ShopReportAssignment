@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Report
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ Java\ method\ of\ the\ program,\ this\ method\ is\ used\ to\ run\ the\ program\n
+comment2.params=
+comment2.target=void\ createInventory()
+comment2.text=\n\ Method\ called\ by\ main()\ to\ fill\ the\ inventory\ array\ with\ new\ inventory\ items\n
+comment3.params=
+comment3.target=void\ calculateRevenue()
+comment3.text=\n\ Method\ called\ by\ main()\ to\ calculate\ the\ revenue\ per\ inventory\ object\ in\ inventory[]\n
+comment4.params=
+comment4.target=void\ calculateTotalRevenue()
+comment4.text=\n\ Method\ called\ by\ main()\ to\ calculate\ the\ total\ Revenue\ per\ category\ by\ calling\ the\ getTotalRevenue()\ method\ in\ the\ RevenueCalculator()\ class\n
+comment5.params=
+comment5.target=void\ printInventory()
+comment5.text=\n\ Method\ called\ by\ main()\ to\ print\ the\ Inventory\ Report\ of\ each\ item\ to\ the\ console\n
+comment6.params=
+comment6.target=void\ saveReport()
+comment6.text=\n\ Method\ called\ by\ main()\ to\ print\ the\ Inventory\ Report\ variables\ of\ each\ item\ into\ a\ file\n
+numComments=7

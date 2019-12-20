@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RevenueCalculator
+comment1.params=
+comment1.target=RevenueCalculator()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RevenueCalculator\n
+comment2.params=inventoryItem
+comment2.target=double\ setRevenuePerItem(Inventory)
+comment2.text=\n\ Method\ called\ by\ getRevenuePerItem()\ to\ separate\ the\ calculation\ logic\ from\ the\ data\n\ The\ method\ is\ private\ since\ it\ can\ only\ be\ called\ from\ the\ getter\ method\ of\ this\ class\ this\ class\n\n\ @param\ inventoryItem\ of\ type\ Inventory\ given\ from\ getRevenuePerItem()\n\ @return\ calculated\ revenuePerItem\n
+comment3.params=
+comment3.target=double\ setTotalRevenue()
+comment3.text=\n\ Method\ called\ by\ getTotalRevenue()\ to\ separate\ the\ calculation\ logic\ from\ the\ data;\ calculates\ the\ total\ Revenue\ of\ the\ given\ category\n\n\ @return\ calculates\ totalRevenue\n
+comment4.params=inventoryItem
+comment4.target=double\ getRevenuePerItem(Inventory)
+comment4.text=\n\ Method\ called\ by\ calculateRevenue()\ in\ class\ Report\n\ \n\ @param\ inventoryItem\ of\ type\ Inventory\ given\ from\ calculateRevenuePerItem()\ method\ in\ the\ Report\ class\n\ @return\ this.revenuePerItem\n
+comment5.params=
+comment5.target=double\ getTotalRevenue()
+comment5.text=\n\ Method\ called\ by\ calculateTotalRevenue()\ in\ class\ Report\n\ \n\ @return\ this.totalRevenue\n
+numComments=6

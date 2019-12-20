@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Inventory\n
+comment2.params=
+comment2.target=java.lang.String\ getInventoryType()
+comment2.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ inventory\ type\n\n\ @return\ inventoryType\n
+comment3.params=
+comment3.target=java.lang.String\ getItemName()
+comment3.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ itemName\n\n\ @return\ itemName\n
+comment4.params=
+comment4.target=int\ getNumOrdered()
+comment4.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ numOrdered\n\n\ @return\ numOrdered\n
+comment5.params=
+comment5.target=int\ getNumInShop()
+comment5.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ numOrdered\n\n\ @return\ numInShop\n
+comment6.params=
+comment6.target=double\ getOrderCost()
+comment6.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ numOrdered\n\n\ @return\ orderCost\n
+comment7.params=
+comment7.target=double\ getPriceSoldAt()
+comment7.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ numOrdered\n\n\ @return\ priceSoldAt\n
+comment8.params=
+comment8.target=int\ getNumSold()
+comment8.text=\n\ Method\ called\ by\ the\ constructor\ to\ get\ a\ new\ numOrdered\n\n\ @return\ numSold\n
+numComments=9

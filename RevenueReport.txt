@@ -1,0 +1,6 @@
+GROCERY	milk	20	1	19	£45.81 profit 
+
+TOTAL TOOLS: 	 	 	 	 £0.0 
+TOTAL STATIONERY: 	 	 	 £0.0 
+TOTAL GROCERY: 	 	 	 	 £45.81 
+TOTAL REVENUE:	 	 	 	 £45.81 
